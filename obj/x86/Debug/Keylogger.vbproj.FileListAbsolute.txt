@@ -1,0 +1,11 @@
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\bin\Debug\Keylogger.xml
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\Keylogger.Form1.resources
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\Keylogger.Resources.resources
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\Keylogger.exe
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\Keylogger.xml
+C:\Users\UNKNOWN\AppData\Local\Temporary Projects\Keylogger\obj\x86\Debug\Keylogger.pdb

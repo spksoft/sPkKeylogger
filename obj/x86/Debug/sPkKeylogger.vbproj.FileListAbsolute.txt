@@ -1,0 +1,11 @@
+E:\Programing\sPkKeylogger\sPkKeylogger\bin\Debug\sPkKeylogger.exe
+E:\Programing\sPkKeylogger\sPkKeylogger\bin\Debug\sPkKeylogger.pdb
+E:\Programing\sPkKeylogger\sPkKeylogger\bin\Debug\sPkKeylogger.xml
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\Keylogger.Form1.resources
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\Keylogger.Resources.resources
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\sPkKeylogger.exe
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\sPkKeylogger.xml
+E:\Programing\sPkKeylogger\sPkKeylogger\obj\x86\Debug\sPkKeylogger.pdb
